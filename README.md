@@ -23,10 +23,10 @@
 
 
 ## Real-time Stats
-<a href="https://github.com/SuhasP2002">
+<a href="https://github.com/babycoader777">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=babycoader777" />
 </a>
-<img src="https://github-readme-stats.vercel.app/api?username=SuhasP2002&&show_icons=true&theme=radical&line_height=27&v=5" alt="Mangesh's GitHub Stats" />
+<img src="https://github-readme-stats.vercel.app/api?username=babycoader777&&show_icons=true&theme=radical&line_height=27&v=5" alt="Mangesh's GitHub Stats" />
 
 
 ##  Contact Me 📱
