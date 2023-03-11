@@ -24,7 +24,7 @@
 
 ## Real-time Stats
 <a href="https://github.com/SuhasP2002">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=babycoder777" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=babycoader777" />
 </a>
 <img src="https://github-readme-stats.vercel.app/api?username=SuhasP2002&&show_icons=true&theme=radical&line_height=27&v=5" alt="Mangesh's GitHub Stats" />
 
